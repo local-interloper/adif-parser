@@ -1,3 +1,5 @@
+# Dist folder
 /target
 
-data
+# Test data folder
+/data
